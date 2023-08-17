@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "Q759AXRW43.com.ozen.customer.dev",
+                "paths": [
+                    "/links/*"
+                ]
+            }
+        ]
+    }
+}
