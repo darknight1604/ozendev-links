@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.ozen.customer.dev",
+            "sha256_cert_fingerprints": [
+                "8D:39:BF:4F:4B:D3:09:9B:B4:BE:E4:B7:98:AD:DC:A0:5C:19:86:03:0F:B0:E4:E3:C0:E7:A1:73:7C:F8:ED:32",
+                "82:EA:3A:D6:17:0A:61:22:8E:D0:EA:66:14:C6:5F:5B:5B:49:5F:94:97:59:F3:7E:AB:55:0B:A1:63:18:0D:76"
+            ]
+        }
+    }
+]
